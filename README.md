@@ -1,4 +1,4 @@
-# Projet OpenNMT – Traduction Neuronale
+# Projet OpenNMT – Traduction Neuronale - Mark SALLOUM - Galust BUNIATYAN
 
 Ce projet a été réalisé dans le cadre du module de Traitement Automatique des Langues (TAL). Il propose un notebook Google Colab qui exécute la chaîne complète de traitement pour évaluer un moteur de traduction neuronale OpenNMT sur des corpus parallèles (Europarl et EMEA). Le notebook est structuré en trois parties :
 
